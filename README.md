@@ -4,7 +4,7 @@ Spring Boot DemoApp makes it easy to create stand-alone, production-grade Spring
 
 ## 1. How to start
 ```
-$ git clone https://github.com/crkarthik11/DemoApp.git
+$ git clone https://github.com/pritam19798/SpringApp
 $ cd demoApp
 $ mvnw spring-boot:run
 
